@@ -1,0 +1,6 @@
+venv
+runs
+dataset
+__pycache__
+*.pyc
+.git
